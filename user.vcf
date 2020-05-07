@@ -1,13 +1,13 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Filipe;Pedroso;Esq.;;
+N:Pedroso;Pedroso;;Esq.;
 FN: Filipe  Pedroso  Esq. 
 ORG:Giftapart Inc.;
 TITLE:Founder &amp; CEO
 EMAIL;type=INTERNET;type=WORK;type=pref:fp@giftapart.com
 TEL;type=WORK;type=VOICE:+1 551 202 8008,1032
-item1.ADR;type=WORK;type=pref:;;892 US Highway 22\nSomerville;NJ;08876;;
+item1.ADR;type=WORK;type=pref:;;892 US Highway 22\nSomerville, NJ 08876;;
 item1.X-ABADR:sg
 item2.URL;type=pref:Giftapart.com
 item2.X-ABLabel:_$!<HomePage>!$_
