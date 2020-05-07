@@ -11,5 +11,5 @@ item1.ADR;type=WORK;type=pref:;;892 US Highway 22;Somerville;NJ;08876;USA
 item1.X-ABADR:us
 item2.URL;type=pref:https://Giftapart.com
 item2.X-ABLabel:_$!<HomePage>!$_
-item3.SOCIALPROFILE;type=LinkedIn:https://linkedin.com/in/filipepedroso
+item3.SOCIALPROFILE;type=linkedin:https://linkedin.com/in/filipepedroso
 END:VCARD
