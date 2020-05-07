@@ -12,5 +12,5 @@ item1.X-ABADR:us
 item2.URL;type=pref:https://Giftapart.com
 item2.X-ABLabel:_$!<HomePage>!$_
 item3.URL;type=pref:https://linkedin.com/in/filipepedroso
-item3.X-ABLabel:_$!<LinkedIn>!$_
+item3.X-ABLabel:LinkedIn
 END:VCARD
