@@ -8,7 +8,7 @@ TITLE:Founder and CEO
 EMAIL;type=INTERNET;type=WORK;type=pref:fp@giftapart.com
 TEL;type=WORK;type=VOICE:+1 551 202 8008,1032
 item1.ADR;type=WORK;type=pref:;;892 US Highway 22\nSomerville;NJ;08876;USA
-item1.X-ABADR:sg
+item1.X-ABADR:us
 item2.URL;type=pref:https://Giftapart.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
